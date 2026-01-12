@@ -1,0 +1,1 @@
+This resource accompanies the chapter "Using in silico pseudobulk differential expression and trajectory analysis of single cell RNA sequencing to reveal stem cell state transitions in colonic inflammation."
