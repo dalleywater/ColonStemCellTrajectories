@@ -1,0 +1,3 @@
+This folder contains the notebook files which are described in the main chapter.
+
+...
